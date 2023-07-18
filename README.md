@@ -1,5 +1,6 @@
 # hungry-frog
-木をよけながら蝶々をたべてスコアを稼ごう🦋
+- 2019年制作
+- 木をよけながら蝶々をたべてスコアを稼ごう🦋
 
 ### デモ動画
 https://github.com/mmzspr/hungry-frog/assets/30862527/4107bd9c-3f65-48cf-9b91-736a2c082a26
