@@ -1,4 +1,10 @@
-# hungry-frog
+<div align="center">
+  
+  # hungry-frog
+  <img src="https://github.com/mmzspr/hungry-frog/assets/30862527/7a30b7f2-6ef2-41fb-b385-c66ef47951db" width="150">
+  
+</div>
+
 - 2019年制作
 - 木をよけながら蝶々をたべてスコアを稼ごう🦋
 
